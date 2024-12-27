@@ -10,4 +10,4 @@ Currently, two official plugins are available:
 
 
 #Backend
-https://github.com/vedant-bahadure2003/signEase-Backend.git
+https://github.com/Afroz9389/signEase-Backend
